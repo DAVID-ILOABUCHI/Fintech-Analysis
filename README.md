@@ -4,6 +4,9 @@ This project examines Nigeria’s FinTech sector, focusing on key financial prod
 ## Dashboard
 ## Problem Statement
 ✔ Determine the most sought-after FinTech products in Nigeria by evaluating average fees and preferred services.
+
 ✔ Assess the pricing models of major competitors in Nigeria’s FinTech industry, covering transaction fees, subscription plans, and one-time charges.
+
 ✔ Create comprehensive customer profiles to identify target segments based on financial literacy levels.
+
 ✔ Offer strategic recommendations on pricing, market positioning, and customer acquisition strategies.
