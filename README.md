@@ -14,4 +14,4 @@ This project examines Nigeria’s FinTech sector, focusing on key financial prod
 The analysis follows a structured, data-driven approach using real-world data sources.
 - The data collection process involves gathering user feedback from Google Play reviews of top FinTech apps, competitor pricing information from company websites and user reports, and customer demographics and financial behavior through online surveys and secondary research.
 - The data cleaning process includes eliminating duplicates, fixing inconsistencies in user feedback and pricing data, standardizing customer demographics formats, and ensuring overall accuracy and consistency in the dataset.
-- Data Visualization Using Power BI
+- Data Visualization Using Power BI.
