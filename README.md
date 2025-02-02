@@ -4,6 +4,7 @@ This project examines Nigeria’s FinTech sector, focusing on key financial prod
 ## Dashboard
 
 ## Problem Statement
+![Image](https://github.com/user-attachments/assets/a19b2f37-2e38-4a5e-930f-5bad6f28da82)
 ✔ Determine the most sought-after FinTech products in Nigeria by evaluating average fees and preferred services.
 
 ✔ Assess the pricing models of major competitors in Nigeria’s FinTech industry, covering transaction fees, subscription plans, and one-time charges.
