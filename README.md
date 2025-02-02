@@ -1,10 +1,6 @@
 # Fintech-Analysis
 ## Project Overview
 This project examines Nigeria’s FinTech sector, focusing on key financial products, pricing strategies, and customer segmentation. By analyzing user feedback, competitor trends, and adoption patterns, it uncovers insights to guide strategic decisions. The study highlights digital payments, mobile banking, micro-lending, and blockchain services, exploring how different customer groups interact with these Services.
-## Dashboard
-![Image 1](https://github.com/user-attachments/assets/85e86065-9d43-4c17-9c01-9e7feab8e815))
-
-
 
 ## Problem Statement
 
