@@ -1,9 +1,11 @@
-# Fintech-Analysis
+# Markket Research Analysis on Nigeria Fintech
 ## Project Overview
 This project examines Nigeria’s FinTech sector, focusing on key financial products, pricing strategies, and customer segmentation. By analyzing user feedback, competitor trends, and adoption patterns, it uncovers insights to guide strategic decisions. The study highlights digital payments, mobile banking, micro-lending, and blockchain services, exploring how different customer groups interact with these Services.
 
 
 ![kokl](https://github.com/user-attachments/assets/684a6d78-cdc9-4e03-8b3d-0ebf320401e0)
+![Image 2](https://github.com/user-attachments/assets/53ddd388-312d-4f6b-8ec4-5149426107fd)
+
 
 ## Problem Statement
 
